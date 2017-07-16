@@ -1,0 +1,29 @@
+<resources>
+    <string-array name="title">
+        <item>Philadelphia Dinner</item>
+        <item>CES 2016</item>
+        <item>Paris lunch</item>
+        <item>London</item>
+        <item>Odessa</item>
+        <item>Kiev</item>
+        <item>Lvov</item>
+        <item>Android</item>
+        <item>Java</item>
+        <item>OOP</item>
+
+
+    </string-array>
+    <string name="app_name">TZ</string>
+    <string name="events_all">Events (All)</string>
+    <string name="philadelphia_dinner">Philadelphia Dinner</string>
+    <string name="time">6:00pm – 7:30pm, March 14-15, 2016</string>
+    <string name="city">San Jose Conference Center Santa Monica Hotel</string>
+    <string name="Place">San Jose, California</string>
+    <string name="equity_compensation">Equity Compensation</string>
+    <string name="about">Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</string>
+    <string name="ces_2016">CES 2016</string>
+    <string name="time1">11:00pm – 4:20pm, March 14-15, 2016</string>
+    <string name="city1">Washington Conference Center Santa Monica Hotel</string>
+    <string name="Place1"><![CDATA[1101 New York Ave, Washington, DC]]></string>
+    <string name="topic_digital_advertising">Topic: Digital Advertising</string>
+</resources>
